@@ -61,12 +61,14 @@ Hi, I am Shehraan Hafiz!
 
 ## 🚀 Favourite Quotes
 
-"Wealth goes away as it is spent, but knowledge grows upon spending it"
-– Ibn al-Qayyim
+"If you risk nothing, you risk everything" 
+– Rob Moore
 
-“The only limit is the one you set yourself” – Felix Baumgartner
+“The only limit is the one you set yourself” 
+– Felix Baumgartner
 
-"Your education begins when you leave school" – Robert Kiyosaki
+“To improve is to change; to be perfect is to change often”
+– Winston Churchill
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshehraan&countColor=%2300157e)
