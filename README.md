@@ -17,7 +17,7 @@ Hi, I am Shehraan Hafiz!
 💻 Driven high school student
 📝 Strong interest in Data Science, Artificial Intelligence, and Embedded Development
 🔭 Working on the intersections of AI with healthcare and finance
-🌟 Main languages: Javascript, C++, Python
+🌟 Main languages: Javascript, C++, Python, HTML and CSS
 </pre>
 <hr>
 
