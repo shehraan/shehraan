@@ -70,5 +70,7 @@ Hi, I am Shehraan Hafiz!
 “To improve is to change; to be perfect is to change often”
 – Winston Churchill
 
+"The true sign of intelligence is not knowledge but imagination." 
+— Albert Einstein
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshehraan&countColor=%2300157e)
