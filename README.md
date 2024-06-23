@@ -17,7 +17,7 @@ Hi, I am Shehraan Hafiz!
 💻 Driven innovator, always hungry for new learnings
 📝 Strong interest in Data Science, Artificial Intelligence, and Embedded Development
 🔭 Working on the intersections of AI with messaging, healthcare and finance
-🌟 Main languages: Javascript, C++, Python, HTML and CSS
+🌟 Main languages: Python, C++, JS, HTML and CSS
 </pre>
 <hr>
 
