@@ -7,7 +7,7 @@ Hi, I am Shehraan Hafiz!
 <br/>
 <p align="center">
 	<a href="https://github.com/shehraan">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=AI+Engineer;Learner;Full+Stack+Developer&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=XR+Engineer;Learner;Embedded+Development&center=true&width=380&height=45">
 	</a>
 </p>
 
