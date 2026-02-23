@@ -4,9 +4,6 @@ Hi, I am Shehraan Hafiz!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<br/>
-
-<hr>
 
 <pre>
 - making AR/VR Hardware, and Embedded Systems
