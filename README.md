@@ -6,7 +6,7 @@ Hi, I am Shehraan Hafiz!
 </h1>
 
 <pre>
-- making AR/VR Hardware, and Embedded Systems
+- Current: Full-stack and Embedded Systems
 - Main languages: Python, C++, Java, JS (React, Node.js, Express)
 </pre>
 <hr>
