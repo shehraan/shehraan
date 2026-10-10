@@ -1,31 +1,13 @@
-<h1 align="center">
-Hi, I am Shehraan Hafiz!
-	<a href="https://github.com/shehraan" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
+# hey, i'm shehraan
 
-<pre>
-- Current: Full-stack and Embedded Systems
-- Main languages: Python, C++, Java, JS (React, Node.js, Express)
-</pre>
-<hr>
+i build software and sometimes hardware.
 
-## Connect with me
-<p align="center">
-	<a href="mailto:shehraanhafiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://twitter.com/ShehraanH"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+some things i've worked on:
+- [tenTexter](https://github.com/shehraan/tenTexter) — an agent that makes plans with people over text
+- [vramizer](https://github.com/shehraan/vramizer) — tried using GPU memory as Linux swap [ram]
+- [DIY VR Headset](https://github.com/shehraan/DIY_VR_HEADSET) — built a VR headset for under $50
+- [EchoDesk](https://github.com/shehraan/echodesk) — turning voice notes into actions and memories
 
-## Favourite Quotes
+currently working on voice AI and other things that catch my interest.
 
-"If you risk nothing, you risk everything" 
-– Rob Moore
-
-“The only limit is the one you set yourself” 
-– Felix Baumgartner
-
-“To improve is to change; to be perfect is to change often”
-– Winston Churchill
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshehraan&countColor=%2300157e)
+[twitter](https://x.com/ShehraanH) · [email](mailto:shehraanhafiz@gmail.com)
